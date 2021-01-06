@@ -43,8 +43,8 @@ Range from making simple interfaces to website add-ons and beyond.
     console
   boxCas::{square-perfect-#FFFFFF}
    siz::null--Nfind.casSize(box?a[window-user;/4,/2.5])
-    if?(alt.xt) then
-     find.line
+   not if displayed(alt.txt)? then
+     find(line)
      fall
     else
      kill("Oh no! DJAddon crashed! Try restarting your browser in a bigger window.")
