@@ -1,4 +1,4 @@
-# DJScript
+# About DJScript
 The newest, fastest programming language.
 
 __Create games with ease.__
